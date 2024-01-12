@@ -1,4 +1,4 @@
-az acr login --name organisationdineshacr --password PIJqLCeCbQUhsqYI14qFN2NNn5iqYUskcn5LOBH9S5+ACRAjRcjw
+az acr login --name organisationdineshacr --password ******
 
 docker tag employee-service-api organisationdineshacr.azurecr.io/employee-service-api
 
